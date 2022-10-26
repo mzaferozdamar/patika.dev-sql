@@ -1,0 +1,3 @@
+SELECT COUNT(country) FROM country
+WHERE country LIKE '_____';
+--bu şartı sağlayan 13 adet veri bulunmaktadır.
