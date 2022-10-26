@@ -1,0 +1,3 @@
+ select count(city) from city
+where city ILIKE '%r'
+--bu şartı sağlayan 33 veri vardır.
