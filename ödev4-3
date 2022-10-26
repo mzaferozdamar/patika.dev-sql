@@ -1,0 +1,4 @@
+SELECT COUNT(*) FROM film
+WHERE title LIKE 'T%' AND rating='G';
+
+-- bu şartları sağlayan 9 adet veri vardır.
